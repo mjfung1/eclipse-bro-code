@@ -11,6 +11,7 @@ public class Car {
 		setName(name);
 		setModel(model);
 		setYear(year);
+		// some comment
 	}
 	
 	
